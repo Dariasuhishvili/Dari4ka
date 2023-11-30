@@ -6,7 +6,7 @@ mod HelloStarknet {
 //myselfNotYourself
     #[event]
     fn Hello(from: ContractAddress, value: felt252) {}
-//thankyouFromDariaCool
+//thankyouFromDariaCoolNot
 *
     #[external]
     fn Say_Hello(message: felt252) {
